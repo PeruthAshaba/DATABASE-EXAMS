@@ -1,0 +1,34 @@
+question1
+i) Database refers  to a collection of highly structured tables.
+ii)Database Management Systems are software systems used to store, retrieve, update and run queries on data.
+iii) SQL is structured Query Language that is used to manage relational databases and perform various operations suchas retrieving, creating , deleting and updating data.
+iv)Foreign Key refers to a candidate key that is used to link two or more tables using a primary key of another table.
+v)Primary key refers to a column  that contain values that uniquely identify each row in a table.
+
+question2
+Merits of using a database
+A database helps in retrieving, updating, deleting and storing of data.
+Databases reduce costs of data entry, data storage.
+A database helps to reduce redundancy of data
+Databases are useful in easy data access using host and query languages suchas SELECT query language.
+Databases have improved data security because they require password to access them.
+
+question3
+Oracle database
+Maria DB
+postgreSQL
+Mongo DB
+MySQL
+Microsoft access
+
+
+question4
+Types of relationships in a database
+i) one_to_one relationships
+It is a type of relationship where the entities appear only once.Forexample One Driver only uses one car.
+
+ii) one_to_many relationships
+It is a type of relationship where one entity appears more than once compared to the other and both can be linked together forexample a mother has many children.
+
+iii) many_to_many relationships
+It is a type of relationship where both entities appear many times and can be linked together. forexample many teachers belong to many schools.

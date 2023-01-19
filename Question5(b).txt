@@ -1,0 +1,10 @@
+i) WHERE clause
+It is used to extract or get those records that are specified in a query.
+ii) GROUP BY clause
+It is used in the SELECT query statement to group rows that have the same values.
+iii)DISTINCT clause
+It is used to retrieve  unique values in a table.
+iv)SELECT clause
+It is used to specify columns from which data values are to be used or updated in a query.
+v)ORDER BY clause
+It is used to sort the records in either ascending or descending order but only sorts it in ascending order by default
